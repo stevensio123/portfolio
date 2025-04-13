@@ -1,4 +1,5 @@
-# Sio Chan Weng, Steven
+### email: stevenscw3253@gmail.com
+### WhatsApp: stev.scw
 #### Technical Skills: Python, SQL, R, Tableau, Excel
 
 ## Education
@@ -26,9 +27,6 @@ SJM Resorts - Macau
 - Assisted with data entry and cleaning to maintain accurate research data.
 - Collected and Analyzed first-party data and developed visualizations to effectively present findings to the Business Development and Marketing team.
 - Contributed to short, summarized analyses and marketing insights for various properties in Macau.
-Part-time Secretary, 12/2019 to 02/2023
-Mei Keng Building Owners Association - Macau
-- Managed and prepared documents for monthly meetings, and were responsible for taking minutes from the meetings, as well as working closely with the management service provider. 
 
 **Part-time Research Student Assistant @ University of Macau (_July 2021 to February 2022_)**
 - Worked diligently to collect and analyze first-party qualitative data by conducting interviews with more than 20 small Business Owners in Macau to understand the impact of COVID-19 on their businesses.
@@ -43,7 +41,7 @@ This project applied three machine learning techniques to analyze a Steam games 
 
 _screenshots:_
 
-![ML Coursework](/assets/img/ml_coursework.png){: width="50%"}
+![ML Coursework](/assets/img/ml_coursework.png)
 
 ### Programming for Data Science Coursework at UoL, [github (TBC)](https://github.com/stevensio123)
 
@@ -51,7 +49,7 @@ This project contains two questions: the first involves implementing the Metropo
 
 _screenshots:_
 
-![Programming Coursework](/assets/img/program_courswork.png){: width="50%"}
+![Programming Coursework](/assets/img/program_courswork.png)
 
 ## Business Analytics Coursework at UoL, [github (TBC)](https://github.com/stevensio123)
 
@@ -59,8 +57,8 @@ This business analytics project used Tableau to visualize and analyze three key 
 
 _sample dashboards:_
 
-![Sample dashboard1](/assets/img/biz_coursework1.png){: width="50%"}
-![Sample dashboard2](/assets/img/biz_coursework2.png){: width="50%"}
+![Sample dashboard1](/assets/img/biz_coursework1.png)
+![Sample dashboard2](/assets/img/biz_coursework2.png)
 
 ## Computer Science Capstone Project for HarvardX: CS50, [github](https://github.com/stevensio123/SafeKeep?tab=readme-ov-file)
 
