@@ -18,12 +18,12 @@ SJM Resorts - Macau
 - Created Automated daily and weekly internal summaries with SAS.
 - Created in-depth Monthly reports summarizing important performance metrics of all Gaming-related Promotions and Events for up to Four Key Properties of the Organization with Tableau and SQL.
 
-**Marketing Assistant @ New Yaohan - Macau SAR, China (_February 2023 to March 2024_)
+**Marketing Assistant @ New Yaohan - Macau SAR, China (_February 2023 to March 2024_)**
 - Prepared weekly marketing promotions' result summaries and ensure data accuracy through regular data entry and cleaning.
 - Creating engaging content for social media platforms including Facebook, Instagram, Rednote, WeChat, Weibo, and Official Website in English / Chinese / Cantonese, also gained experience in Marketing Content review to ensure accuracy of Information as well as Compliance with relevant laws and regulations.
 - Assist in coordinating with key business partners for co-branding campaigns, collaborating across departments and with front-line operations staff to ensure smooth event and promotion operations. 
 
-**Part-time Research Analyst @ Savills Plc. Macau - Macau SAR, China (_July 2022 to February 2023_)
+**Part-time Research Analyst @ Savills Plc. Macau - Macau SAR, China (_July 2022 to February 2023_)**
 - Assisted with data entry and cleaning to maintain accurate research data.
 - Collected and Analyzed first-party data and developed visualizations to effectively present findings to the Business Development and Marketing team.
 - Contributed to short, summarized analyses and marketing insights for various properties in Macau.
@@ -31,10 +31,10 @@ Part-time Secretary, 12/2019 to 02/2023
 Mei Keng Building Owners Association - Macau
 - Managed and prepared documents for monthly meetings, and were responsible for taking minutes from the meetings, as well as working closely with the management service provider. 
 
-**Part-time Research Student Assistant @ University of Macau (_July 2021 to February 2022_)
+**Part-time Research Student Assistant @ University of Macau (_July 2021 to February 2022_)**
 - Worked diligently to collect and analyze first-party qualitative data by conducting interviews with more than 20 small Business Owners in Macau to understand the impact of COVID-19 on their businesses.
 
-**Part-time Piano Teacher @ Hoi Lei Music Teaching Center, Macau SAR, China (_September 2019 to July 2022_)
+**Part-time Piano Teacher @ Hoi Lei Music Teaching Center, Macau SAR, China (_September 2019 to July 2022_)**
 - Helped in teaching and developing young children to play piano and preparing them for ABRSM examinations as well as piano performance for music competition. Obtained an Excellent Music Teaching Award in the International Young Musicians Music Competition by Universal Academy of Performing Arts in 2021.
 
 ## Projects
