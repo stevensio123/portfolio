@@ -43,7 +43,7 @@ This project applied three machine learning techniques to analyze a Steam games 
 
 _screenshots:_
 
-![ML Coursework](/assets/img/ml_coursework.png)
+![ML Coursework](/assets/img/ml_coursework.png){: width="50%"}
 
 ### Programming for Data Science Coursework at UoL, [github (TBC)](https://github.com/stevensio123)
 
@@ -51,7 +51,7 @@ This project contains two questions: the first involves implementing the Metropo
 
 _screenshots:_
 
-![Programming Coursework](/assets/img/program_courswork.png)
+![Programming Coursework](/assets/img/program_courswork.png){: width="50%"}
 
 ## Business Analytics Coursework at UoL, [github (TBC)](https://github.com/stevensio123)
 
@@ -59,8 +59,8 @@ This business analytics project used Tableau to visualize and analyze three key 
 
 _sample dashboards:_
 
-![Sample dashboard1](/assets/img/biz_coursework1.png)
-![Sample dashboard2](/assets/img/biz_coursework2.png)
+![Sample dashboard1](/assets/img/biz_coursework1.png){: width="50%"}
+![Sample dashboard2](/assets/img/biz_coursework2.png){: width="50%"}
 
 ## Computer Science Capstone Project for HarvardX: CS50, [github](https://github.com/stevensio123/SafeKeep?tab=readme-ov-file)
 
