@@ -49,8 +49,8 @@ This project contains two questions: the first involves implementing the Metropo
 
 This business analytics project used Tableau to visualize and analyze three key areas: performance metrics, demand forecasting, and profitability optimization. The dashboards revealed several important trends and insights, with recommendations and executive summary included.
 
-[![Sample dashboard1](/assets/img/biz_coursework1.png)](/portfolio/assets/img/biz_coursework1.png)
-[![Sample dashboard2](/assets/img/biz_coursework2.png)](/portfolio/assets/img/biz_coursework2.png)
+[![Sample dashboard1](/assets/img/biz_coursework1.jpg)](/portfolio/assets/img/biz_coursework1.jpg)
+[![Sample dashboard2](/assets/img/biz_coursework2.jpg)](/portfolio/assets/img/biz_coursework2.jpg)
 
 ## Computer Science Capstone Project for HarvardX: CS50, [github](https://github.com/stevensio123/SafeKeep?tab=readme-ov-file)
 
