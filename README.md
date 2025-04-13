@@ -1,4 +1,4 @@
-### email: stevenscw3253@gmail.com
+### email: [stevenscw3253@gmail.com](stevenscw3253@gmail.com)
 ### WhatsApp: stev.scw
 #### Technical Skills: Python, SQL, R, Tableau, Excel
 
