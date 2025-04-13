@@ -5,7 +5,7 @@
   <br> _Expected Graduation: August 2025_
 - B.S., Business Administration in Marketing | University of Macau (Macau SAR, China)
   <br> _June 2022_ 
-- Senior Secondary Education | Macau Anglican College (Macau SAR, China)
+- Secondary Education / Highschool | Macau Anglican College (Macau SAR, China)
   <br> _June 2018_
   
 ## Work Experience
