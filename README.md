@@ -56,7 +56,7 @@ This business analytics project used Tableau to visualize and analyze three key 
 [![Sample dashboard1](/assets/img/biz_coursework1.jpg)](/portfolio/assets/img/biz_coursework1.jpg)
 [![Sample dashboard2](/assets/img/biz_coursework2.jpg)](/portfolio/assets/img/biz_coursework2.jpg)
 
-## Computer Science Capstone Project for HarvardX: CS50 [(Github link)](https://github.com/stevensio123/SafeKeep?tab=readme-ov-file)
+### Computer Science Capstone Project for HarvardX: CS50 [(Github link)](https://github.com/stevensio123/SafeKeep?tab=readme-ov-file)
 
 This secure password manager web application was built with Flask, SQLAlchemy, and Bootstrap. It was developed with my partner Charles as my capstone project for HarvardX's CS50 course. The web app features encrypted credential storage, user authentication, and a responsive interface, demonstrating core CS50 concepts like database design, web security, and full-stack development in Python.
 
