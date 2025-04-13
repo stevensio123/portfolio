@@ -42,18 +42,24 @@ Mei Keng Building Owners Association - Macau
 [github (TBC)](https://github.com/stevensio123)
 
 This project applied three machine learning techniques to analyze a Steam games dataset: clustering (hierarchical correlation-based grouping of game tags into clusters/categories), regression (Negative Binomial and XGBoost models to predict recommendation counts using features like playtime skewness and tag clusters), and classification (Random Forest and SVM to categorize games into price tiers based on attributes such as playtime and publisher influence). The work was implemented in R, with robust model evaluation and insights for game developers.
+
+_screenshots:_
 ![ML Coursework](/assets/img/ml_coursework.png)
 
 ### Programming for Data Science Coursework at UoL
 [github (TBC)](https://github.com/stevensio123)
 
 This project contains two questions: the first involves implementing the Metropolis-Hastings algorithm to simulate random numbers from a given distribution, assessing convergence diagnostics, and visualizing results. The second focuses on analyzing a large dataset of US flight records to determine optimal travel times, evaluate the impact of plane age on delays, and model flight diversion probabilities using logistic regression. The work was completed using R and Python
+
+_screenshots:_
 ![Programming Coursework](/assets/img/program_courswork.png)
 
 ## Business Analytics Coursework at UoL
 [github (TBC)](https://github.com/stevensio123)
 
 This business analytics project used Tableau to visualize and analyze three key areas: performance metrics, demand forecasting, and profitability optimization. The dashboards revealed several important trends and insights, with recommendations and executive summary included.
+
+_sample dashboards:_
 ![Sample dashboard1](/assets/img/biz_coursework1.png)
 ![Sample dashboard2](/assets/img/biz_coursework2.png)
 
