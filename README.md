@@ -67,7 +67,7 @@ This business analytics project used Tableau to visualize and analyze three key 
 This secure password manager web application was built with Flask, SQLAlchemy, and Bootstrap. It was developed with my partner Charles as my capstone project for HarvardX's CS50 course. The web app features encrypted credential storage, user authentication, and a responsive interface, demonstrating core CS50 concepts like database design, web security, and full-stack development in Python.
 
 - [Web app demo](https://www.youtube.com/watch?v=DSxv5b84eWo)
-- 
+
 ---
 
 ## Certifications
@@ -81,7 +81,7 @@ This secure password manager web application was built with Flask, SQLAlchemy, a
   <br> _January 2023_
   <br> [(Show Credential)](https://courses.edx.org/certificates/a7c81820db5342429d5df4c2b410aad3)
 
-## Recommendations / Testimonials
+## Recommendation / Testimonial
 - Part-time Research Student Assistant @ University of Macau
   <br> _June 2022_
   [![Student_recommendation](/assets/img/umac_recommend.jpg)](/portfolio/assets/img/umac_recommend.jpg)
