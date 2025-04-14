@@ -10,7 +10,7 @@
   
 ## Work Experience
 **Strategic Analyst @ SJM Resorts (Macau SAR, China)**
-<br> _April 2024 to August 2024_)
+<br> _April 2024 to August 2024_
 - Performed in-depth post-event analyses and ad-hoc analyses for different Gaming-related Events & Promotions using SQL Queries and Tableau visualization.
 - Supported the processes related in data cleaning and regular data entry into the server database to maintain data quality and prevent inconsistencies.
 - Created Automated daily and weekly internal summaries with SAS.
