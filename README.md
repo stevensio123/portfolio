@@ -83,7 +83,7 @@ This secure password manager web application was built with Flask, SQLAlchemy, a
 
 ## Recommendations / Testimonials
 - Part-time Research Student Assistant @ University of Macau
-  <br> _February 2022_
+  <br> _June 2022_
   [![Student_recommendation](/assets/img/umac_recommend.jpg)](/portfolio/assets/img/umac_recommend.jpg)
 
 
