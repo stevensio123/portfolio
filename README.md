@@ -1,15 +1,15 @@
 #### Technical Skills: Python, SQL, R, Tableau, Excel
 
 ## Education
-- **Graduate Diploma in Data Science**
+**Graduate Diploma in Data Science**
   <br>_University of London (Singapore)_
   <br>_Expected Graduation: August 2025_
 
-- **Bachelor of Science in Business Administration (Marketing)**
+**Bachelor of Science in Business Administration (Marketing)**
   <br>_University of Macau (Macau SAR, China)_
   <br>_Graduated: June 2022_
 
-- **Secondary Education / Highschool**
+**Secondary Education / Highschool**
   <br>_Macau Anglican College (Macau SAR, China)_
   <br>_Graduated: June 2018_
   
