@@ -58,7 +58,7 @@ This project contains two questions: the first involves implementing the Metropo
 
 ---
 
-### Business Analytics Coursework at UoL [(Github link -TBC)](https://github.com/stevensio123/GradDip-Datascience/tree/main/ST2187_BizAnalytics)
+### Business Analytics Coursework at UoL [(Github link)](https://github.com/stevensio123/GradDip-Datascience/tree/main/ST2187_BizAnalytics)
 
 This business analytics project used Tableau to visualize and analyze three key areas: performance metrics, demand forecasting, and profitability optimization. The dashboards revealed several important trends and insights, with recommendations and executive summary included.
 
