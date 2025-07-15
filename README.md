@@ -43,8 +43,8 @@
 
 ## Projects  
 
-### Meta-Kaggle Hackathon - Results Expected on August [(Kaggle Notebook)](https://www.kaggle.com/code/stevensio/following-kagglers-from-first-steps-to-success)
-Used SQL and Python to identify factors driving Kaggle user success, including early wins, sustained participation, and submission frequency. Explored competition trends and user preferences across segments. Created interactive Plotly visualizations and trained a decision tree for exploratory analysis.
+### Meta-Kaggle Hackathon - Results Expected on August [(Kaggle Notebook)](https://www.kaggle.com/code/stevensio/kaggle-journeys-cohorts-and-competition-shifts)
+A comprehensive analysis of Kaggle competition trends from 2019 to 2024, combining time-series, cohort and cross-sectional methods to uncover shifts in user behavior, submission patterns, performance tiers, and the growing influence of solo participation, Playground competitions, entry-level GPU use, and faster submission cycles.
 
 ---
 
