@@ -43,7 +43,7 @@
 
 ## Projects  
 
-### Meta-Kaggle Hackathon - Results Expected on August [(Blog Page)](https://stevensio123.github.io/meta-kaggle-analysis/)
+### Meta-Kaggle Hackathon - Third Place Winner [(Writeup)](https://www.kaggle.com/competitions/meta-kaggle-hackathon/writeups/kaggle-journeys-cohorts-and-competition-shifts)
 A comprehensive analysis of Kaggle competition trends from 2019 to 2024, combining time-series, cohort and cross-sectional methods to uncover shifts in user behavior, submission patterns, performance tiers, and the growing influence of solo participation, Playground competitions, entry-level GPU use, and faster submission cycles.
 
 ---
