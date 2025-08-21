@@ -1,11 +1,11 @@
 #### Technical Skills: Python, SQL, R, Tableau, Excel
 
 ## Education
-**Graduate Diploma in Data Science**
+**Graduate Diploma in Data Science | Distinction**
   <br>_University of London (Singapore)_
   <br>_Expected Graduation: September 2025_
 
-**Bachelor of Science in Business Administration (Marketing)**
+**Bachelor of Science in Business Administration (Marketing) | GPA 2.87**
   <br>_University of Macau (Macau SAR, China)_
   <br>_Graduated: June 2022_
 
@@ -34,12 +34,6 @@
 **Part-time Research Student Assistant @ University of Macau (Macau SAR, China)** 
 <br> _July 2021 to February 2022_
 - Collected and analyzed qualitative data through interviews with over 20 small business owners in Macau to assess COVID-19's impact on their businesses
-
-**Part-time Piano Teacher @ Hoi Lei Music Teaching Center (Macau SAR, China)** 
-<br> _September 2019 to July 2022_
-- Taught young children piano, preparing them for ABRSM exams and competitions.
-Received an Excellent Music Teaching Award at the 2021 International Young Musicians
-Music Competition.
 
 ## Projects  
 
