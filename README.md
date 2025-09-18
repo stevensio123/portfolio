@@ -37,8 +37,8 @@
 
 ## Projects  
 
-### Meta-Kaggle Hackathon - Third Place Winner [(Writeup)](https://www.kaggle.com/competitions/meta-kaggle-hackathon/writeups/kaggle-journeys-cohorts-and-competition-shifts)
-A comprehensive analysis of Kaggle competition trends from 2019 to 2024, combining time-series, cohort and cross-sectional methods to uncover shifts in user behavior, submission patterns, performance tiers, and the growing influence of solo participation, Playground competitions, entry-level GPU use, and faster submission cycles.
+### Meta-Kaggle Hackathon - Third Place Winner ($5,000 USD Award) [(Writeup)](https://www.kaggle.com/competitions/meta-kaggle-hackathon/writeups/kaggle-journeys-cohorts-and-competition-shifts)
+Awarded for a comprehensive analysis of Kaggle competition trends from 2019 to 2024. This project combined time-series, cohort, and cross-sectional methods to uncover key shifts in user behavior, including the growing influence of solo participation, Playground competitions, entry-level GPU use, and faster submission cycles.
 
 ---
 
