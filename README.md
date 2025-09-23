@@ -13,8 +13,6 @@
   <br>_Macau Anglican College (Macau SAR, China)_
   <br>_Graduated: June 2018_
 
----
-
 ## Projects  
 
 ### Meta-Kaggle Hackathon - Third Place Winner ($5,000 USD Award) [(Writeup)](https://www.kaggle.com/competitions/meta-kaggle-hackathon/writeups/kaggle-journeys-cohorts-and-competition-shifts)
