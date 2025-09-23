@@ -3,7 +3,7 @@
 ## Education
 **Graduate Diploma in Data Science | Distinction**
   <br>_University of London (Singapore)_
-  <br>_Expected Graduation: September 2025_
+  <br>_Graduated: September 2025_
 
 **Bachelor of Science in Business Administration (Marketing) | GPA 2.87**
   <br>_University of Macau (Macau SAR, China)_
