@@ -12,28 +12,8 @@
 **Secondary Education / Highschool**
   <br>_Macau Anglican College (Macau SAR, China)_
   <br>_Graduated: June 2018_
-  
-## Work Experience
-**Strategic Analyst @ SJM Resorts (Macau SAR, China)**
-<br> _April 2024 to August 2024_
-- Conducted detailed post-event and ad-hoc analyses for gaming events using SQL and Tableau.
-- Developed automated daily and weekly summaries using SAS.
-- Compiled comprehensive monthly reports on performance metrics for gaming promotions and events for four key properties using Tableau and SQL.
 
-**Marketing Assistant @ New Yaohan (Macau SAR, China)** 
-<br> _February 2023 to March 2024_
-- Prepared weekly summaries of marketing promotions and ensured data accuracy through regular entry and cleaning.
-- Created engaging content for social media in English, Mandarin, and Cantonese, while reviewing marketing content for accuracy and compliance.
-- Assisted in coordinating co-branding campaigns with key business partners, collaborating across departments and with front-line staff for smooth event and promotion operations.
-
-**Part-time Research Analyst @ Savills Plc. Macau (Macau SAR, China)** 
-<br> _July 2022 to February 2023_
-- Assisted with data entry and cleaning for accurate research data.
-- Collected and analyzed first-party data, creating visualizations for the Business Development and Marketing team.
-
-**Part-time Research Student Assistant @ University of Macau (Macau SAR, China)** 
-<br> _July 2021 to February 2022_
-- Collected and analyzed qualitative data through interviews with over 20 small business owners in Macau to assess COVID-19's impact on their businesses
+---
 
 ## Projects  
 
@@ -72,6 +52,30 @@ This business analytics project used Tableau to visualize and analyze three key 
 This secure password manager web application was built with Flask, SQLAlchemy, and Bootstrap. It was developed with my partner Charles as my capstone project for HarvardX's CS50 course. The web app features encrypted credential storage, user authentication, and a responsive interface. Applied core computer science concepts like database design, web security, and full-stack development in Python.
 
 - [Web app demo](https://www.youtube.com/watch?v=DSxv5b84eWo)
+
+---
+  
+## Work Experience
+**Strategic Analyst @ SJM Resorts (Macau SAR, China)**
+<br> _April 2024 to August 2024_
+- Conducted detailed post-event and ad-hoc analyses for gaming events using SQL and Tableau.
+- Developed automated daily and weekly summaries using SAS.
+- Compiled comprehensive monthly reports on performance metrics for gaming promotions and events for four key properties using Tableau and SQL.
+
+**Marketing Assistant @ New Yaohan (Macau SAR, China)** 
+<br> _February 2023 to March 2024_
+- Prepared weekly summaries of marketing promotions and ensured data accuracy through regular entry and cleaning.
+- Created engaging content for social media in English, Mandarin, and Cantonese, while reviewing marketing content for accuracy and compliance.
+- Assisted in coordinating co-branding campaigns with key business partners, collaborating across departments and with front-line staff for smooth event and promotion operations.
+
+**Part-time Research Analyst @ Savills Plc. Macau (Macau SAR, China)** 
+<br> _July 2022 to February 2023_
+- Assisted with data entry and cleaning for accurate research data.
+- Collected and analyzed first-party data, creating visualizations for the Business Development and Marketing team.
+
+**Part-time Research Student Assistant @ University of Macau (Macau SAR, China)** 
+<br> _July 2021 to February 2022_
+- Collected and analyzed qualitative data through interviews with over 20 small business owners in Macau to assess COVID-19's impact on their businesses
 
 ---
 
