@@ -16,7 +16,7 @@ Data science graduate with distinction, strong analytical background, and hands-
 
 ## Projects  
 
-### Meta-Kaggle Hackathon - Third Place Winner ($5,000 USD Award) [(Writeup)](https://www.kaggle.com/competitions/meta-kaggle-hackathon/writeups/kaggle-journeys-cohorts-and-competition-shifts)[(Blog Page)](https://stevensio123.github.io/meta-kaggle-analysis/)
+### Meta-Kaggle Hackathon - Third Place Winner ($5,000 USD Award) [(Writeup Submission)](https://www.kaggle.com/competitions/meta-kaggle-hackathon/writeups/kaggle-journeys-cohorts-and-competition-shifts), [(Blog Page)](https://stevensio123.github.io/meta-kaggle-analysis/)
 Awarded for a comprehensive analysis of Kaggle competition trends from 2019 to 2024. This project combined time-series, cohort, and cross-sectional methods to uncover key shifts in user behavior, including the growing influence of solo participation, Playground competitions, entry-level GPU use, and faster submission cycles.
 
 ---
