@@ -55,11 +55,17 @@ This secure password manager web application was built with Flask, SQLAlchemy, a
 ---
   
 ## Work Experience
+**Customer Analytics and Insights Executive @ Hong Kong Trade Development Council (Hong Kong SAR, China)**
+<br> _November 2025 to Present_
+- Delivered ad-hoc analytical reports on targeted customer segments and event audiences, delivering clear KPIs to support data-driven decisions.
+- Conducted customer portfolio analyses for key regions across the globe to support council-wide strategic planning and market prioritization.
+- Built interactive dashboards that accelerated business insight generation and improved efficiency in validating data consistency for customer portfolio analyses.
+
 **Strategic Analyst @ SJM Resorts (Macau SAR, China)**
 <br> _April 2024 to August 2024_
-- Conducted detailed post-event and ad-hoc analyses for gaming events using SQL and Tableau.
-- Developed automated daily and weekly summaries using SAS.
-- Compiled comprehensive monthly reports on performance metrics for gaming promotions and events for four key properties using Tableau and SQL.
+- Conducted detailed post-event and ad-hoc analyses for major gaming events to evaluate performance and customer engagement.
+- Built automated daily and weekly performance dashboards to monitor promotional activity and detect emerging trends.
+- Compiled comprehensive monthly reports on key performance metrics for gaming promotions and events across four core properties of the company.
 
 **Marketing Assistant @ New Yaohan (Macau SAR, China)** 
 <br> _February 2023 to March 2024_
