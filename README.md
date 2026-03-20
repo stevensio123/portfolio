@@ -2,11 +2,11 @@
 Data science graduate with distinction, strong analytical background, and hands-on experience in data analysis, automation, and visualization. Recently placed third in the [Meta Kaggle Hackathon](https://www.kaggle.com/competitions/meta-kaggle-hackathon) (USD $5,000 prize). Skilled in SQL, Python, Excel, Tableau, and dashboard development with proven ability to deliver actionable insights.
 
 ## Education
-**Graduate Diploma in Data Science | Distinction**
+**Graduate Diploma in Data Science | Passed with Distinction**
   <br>_University of London (Singapore)_
   <br>_Graduated: September 2025_
 
-**Bachelor of Science in Business Administration (Marketing) | GPA 2.87**
+**Bachelor of Science in Business Administration (Marketing)**
   <br>_University of Macau (Macau SAR, China)_
   <br>_Graduated: June 2022_
 
