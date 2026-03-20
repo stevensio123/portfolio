@@ -1,5 +1,5 @@
 ## Profile
-Data science graduate with distinction, strong analytical background, and hands-on experience in data analysis, automation, and visualization. Recently placed third in the [Meta Kaggle Hackathon](https://www.kaggle.com/competitions/meta-kaggle-hackathon) (USD $5,000 prize). Skilled in SQL, Python, Excel, Tableau, and dashboard development with proven ability to deliver actionable insights.
+Data science graduate with strong analytical background, and hands-on experience in data analysis, automation, and visualization. Recently placed third in the [Meta Kaggle Hackathon](https://www.kaggle.com/competitions/meta-kaggle-hackathon) (USD $5,000 prize). Skilled in SQL, Python, Excel, Tableau, and dashboard development with proven ability to deliver actionable insights.
 
 ## Education
 **Graduate Diploma in Data Science | Passed with Distinction**
