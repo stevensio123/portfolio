@@ -16,7 +16,7 @@ Data science graduate with strong analytical background, and hands-on experience
 
 ## Projects
 
-### Reinforcement Learning Programs *(Work in Progress)* [GitHub Repository](https://github.com/stevensio123/reinforcement_learning_programs)
+### Reinforcement Learning Programs *(Work in Progress)* [GitHub](https://github.com/stevensio123/reinforcement_learning_programs)
 
 A collection of custom implementations and solutions based on *Reinforcement Learning: An Introduction (2nd Edition)* by Sutton & Barto, which I use as my primary resource for self-study. To date, me and [(Justin)](https://www.linkedin.com/in/justin-pun-77b772229/) collaboratively have completed all programming exercises for the first five chapters, covering core concepts such as multi-armed bandits, dynamic programming, and Monte Carlo methods. Remaining chapters and implementations are currently in progress.
 
@@ -27,7 +27,7 @@ Awarded for a comprehensive analysis of Kaggle competition trends from 2019 to 2
 
 ---
 
-### Machine Learning Coursework at UoL [(Github link)](https://github.com/stevensio123/GradDip-Datascience/blob/main/ST3189_MachineLearning)
+### Machine Learning Coursework at UoL [(Github)](https://github.com/stevensio123/GradDip-Datascience/blob/main/ST3189_MachineLearning)
 
 This project applied three machine learning techniques to analyze a Steam games dataset which aims to provide insights for game developers: clustering (hierarchical correlation-based grouping of game tags into clusters/categories), regression (Negative Binomial and XGBoost models to predict recommendation counts using features like playtime skewness and tag clusters), and classification (Random Forest and SVM to categorize games into price tiers based on attributes such as playtime and publisher influence). The work was implemented in R.
 
@@ -35,7 +35,7 @@ This project applied three machine learning techniques to analyze a Steam games 
 
 ---
 
-### Programming for Data Science Coursework at UoL [(Github link)](https://github.com/stevensio123/GradDip-Datascience/tree/main/ST2195_ProgrammingDataScience)
+### Programming for Data Science Coursework at UoL [(Github)](https://github.com/stevensio123/GradDip-Datascience/tree/main/ST2195_ProgrammingDataScience)
 
 This project contains two questions: the first involves implementing the Metropolis-Hastings algorithm to simulate random numbers from a given distribution, assessing convergence diagnostics, and visualizing results. The second focuses on analyzing a large dataset of US flight records to determine optimal travel times, evaluate the impact of plane age on delays, and model flight diversion probabilities using logistic regression. The work was completed in both R and Python.
 
@@ -43,7 +43,7 @@ This project contains two questions: the first involves implementing the Metropo
 
 ---
 
-### Business Analytics Coursework at UoL [(Github link)](https://github.com/stevensio123/GradDip-Datascience/tree/main/ST2187_BizAnalytics)
+### Business Analytics Coursework at UoL [(Github)](https://github.com/stevensio123/GradDip-Datascience/tree/main/ST2187_BizAnalytics)
 
 This business analytics project used Tableau to visualize and analyze three key areas: performance metrics, demand forecasting, and profitability optimization. The dashboards revealed several important trends and insights. Recommendations and executive summary were included in the report.
 
@@ -52,7 +52,7 @@ This business analytics project used Tableau to visualize and analyze three key 
 
 ---
 
-### Computer Science Capstone Project for HarvardX: CS50 [(Github link)](https://github.com/stevensio123/SafeKeep?tab=readme-ov-file)
+### Computer Science Capstone Project for HarvardX: CS50 [(Github)](https://github.com/stevensio123/SafeKeep?tab=readme-ov-file)
 
 This secure password manager web application was built with Flask, SQLAlchemy, and Bootstrap. It was developed with my partner Charles as my capstone project for HarvardX's CS50 course. The web app features encrypted credential storage, user authentication, and a responsive interface. Applied core computer science concepts like database design, web security, and full-stack development in Python.
 
