@@ -16,10 +16,11 @@ Data science graduate with strong analytical background, and hands-on experience
 
 ## Projects
 
-### Reinforcement Learning Programs *(Work in Progress)*  
-[GitHub Repository](https://github.com/stevensio123/reinforcement_learning_programs)
+### Reinforcement Learning Programs *(Work in Progress)* [GitHub Repository](https://github.com/stevensio123/reinforcement_learning_programs)
 
 A collection of custom implementations and solutions based on *Reinforcement Learning: An Introduction (2nd Edition)* by Sutton & Barto, which I use as my primary resource for self-study. To date, me and [(Justin)](https://www.linkedin.com/in/justin-pun-77b772229/) collaboratively have completed all programming exercises for the first five chapters, covering core concepts such as multi-armed bandits, dynamic programming, and Monte Carlo methods. Remaining chapters and implementations are currently in progress.
+
+---
 
 ### Meta-Kaggle Hackathon - 3rd Place (USD $5,000 prize) [(Writeup Submission)](https://www.kaggle.com/competitions/meta-kaggle-hackathon/writeups/kaggle-journeys-cohorts-and-competition-shifts), [(Blog Page)](https://stevensio123.github.io/meta-kaggle-analysis/)
 Awarded for a comprehensive analysis of Kaggle competition trends from 2019 to 2024. This project combined time-series, cohort, and cross-sectional methods to uncover key shifts in user behavior, including the growing influence of solo participation, Playground competitions, entry-level GPU use, and faster submission cycles.
